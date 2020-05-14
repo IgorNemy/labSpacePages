@@ -20,6 +20,7 @@
 .btn-outline-dark, .btn-outline-dark:active, .btn-outline-dark:visited {
 		border-color: rgba(67, 67, 67);
 		color: rgba(67, 67, 67);
+		text-decoration: none;
 }
 .btn-outline-dark:hover, {
     background-color: rgba(67, 67, 67);
