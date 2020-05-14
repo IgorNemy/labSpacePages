@@ -23,8 +23,7 @@
 .btn-outline-dark:hover {
 	background-color: rgba(67, 67, 67);
 	border-color: rgba(67, 67, 67);
-	color: #fff !important;
-	text-decoration: none !important;
+	color: #fff;
 }
 .text-labspace {
 	color: rgba(67, 67, 67);
