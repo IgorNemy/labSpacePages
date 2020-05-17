@@ -39,6 +39,9 @@
 .dropdown-menu a:hover {
 	background-color: rgba(67, 67, 67);
 }
+a, a:hover, a:visited {
+	color: #e5a400;
+}
 .site-header li {
 	color: #999;
 	transition: ease-in-out color .15s;
