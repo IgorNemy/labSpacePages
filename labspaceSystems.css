@@ -9,11 +9,11 @@
 	background-color: rgba(67, 67, 67);
 }
 .site-header a {
-	color: #999;
+	color: #999 !important;
 	transition: ease-in-out color .15s;
 }
 .site-header a:hover {
-	color: #fff;
+	color: #fff !important;
 	text-decoration: none;
 }
 .btn-outline-dark, .btn-outline-dark:active, .btn-outline-dark:visited {
